@@ -1,5 +1,5 @@
-# SAAS
-Statistical Approach to Audit Sampling (SAAS)
+# ADFA
+Anomaly Detection for Fair Fraud Analysis (ADFA)
 
 Fraud detection is essentially an anomaly detection procedure that aims to avoid financial loss. We propose a two step method to select cases probabilistically based on their impact, but 
 guaranteeing that the relative discrepancy between the observed 
